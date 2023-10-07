@@ -8,6 +8,7 @@ Welcome to the Flight Price Predictor, a user-friendly web application that pred
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+- [Screenshot](#screenshot)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
@@ -28,6 +29,10 @@ To get started with Flight Price Predictor, follow these simple steps:
 3.Install the required dependencies using pip:
 
     pip install -r requirements.txt
+
+## Screenshot
+
+Here are some screenshots of the model after predicting the price:
 
 ## Usage
 Run the Flight Price Predictor:
