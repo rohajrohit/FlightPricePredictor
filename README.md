@@ -18,10 +18,6 @@ Welcome to the Flight Price Predictor, a user-friendly web application that pred
 ## Getting Started
 
 To get started with Flight Price Predictor, follow these simple steps:
-
-
-  <img src='FlightPredictorImage/Screenshot (351).png' >
- <img src='FlightPredictorImage/Screenshot (354).png' >
    
 
 1. Clone the repository to your local machine:
@@ -38,6 +34,9 @@ To get started with Flight Price Predictor, follow these simple steps:
 ## Screenshot
 
 Here are some screenshots of the model after predicting the price:
+
+   <img src='FlightPredictorImage/Screenshot (351).png' >
+  <img src='FlightPredictorImage/Screenshot (354).png' >
 
 ## Usage
 Run the Flight Price Predictor:
