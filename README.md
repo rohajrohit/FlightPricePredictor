@@ -19,15 +19,10 @@ Welcome to the Flight Price Predictor, a user-friendly web application that pred
 
 To get started with Flight Price Predictor, follow these simple steps:
 
-<div align='center'>
-  <table>
-    <tr>
-      <td><img src='FlightPredictorimage/Screenshot (351).png' height='448' width='280'></td>
-      <td><img src='FlightPredictorimage/Screenshot (354).png' height='448' width='280'></td>
-    </tr>
-    </table>
-  
-</div>
+
+  <img src='FlightPredictorImage/Screenshot (351).png' >
+ <img src='FlightPredictorImage/Screenshot (354).png' >
+   
 
 1. Clone the repository to your local machine:
 
